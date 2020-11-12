@@ -1,4 +1,6 @@
 # Install
 ```
-pip -v install -e git+ssh://git@github.com/bincdianshangcun/pycommon.git@v0.0.1#egg=pycommon&subdirectory=src
+#pip -v install -e git+ssh://git@github.com/bincdianshangcun/pycommon.git@0.0.3#egg=pycommon
+pip -v install git+ssh://git@github.com/bincdianshangcun/pycommon.git
+
 ```
