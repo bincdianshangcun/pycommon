@@ -1,0 +1,6 @@
+name: pycommon
+dependencies:
+  - python=3.8
+  - pip
+  - pylint
+  - pylint
