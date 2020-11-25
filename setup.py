@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="pycommon", # Replace with your own username
-    version="0.0.3",
+    version="0.0.4",
     author="dianshangcun",
     author_email="author@example.com",
     description="A small pycommon package",
